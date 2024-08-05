@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi there👋, I'm Adham El-Rouby</h1>
+<h3 align="center">🧑🏻‍💻 Dedicated Software Engineer | Web Developer</h3>
+
+## 🙋‍♂️ About me
+
+![profile view count](https://komarev.com/ghpvc/?username=AdhamElRouby)
 
 <!--
 **AdhamElRouby/AdhamElRouby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
