@@ -30,7 +30,7 @@ I’m a **Computer Engineering** student at **the American University in Cairo**
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhamelrouby" alt="adhamelrouby" /></a> </p>
 
 ## 📫 Connect with me
-[<img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="30" width="40" alt="gmail"/>](malito:adhamelrouby@aucegypt.edu)
+[<img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="30" width="40" alt="gmail"/>](mailto:adhamelrouby@aucegypt.edu)
 <!-- linked in profile, to be added:
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" />]()
  --> 
