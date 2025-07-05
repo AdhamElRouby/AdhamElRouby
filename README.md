@@ -9,32 +9,43 @@ I’m a **Computer Engineering** student at **the American University in Cairo**
 
 ## 🛠️ Skills
 
-<!-- HTML5, CSS3, JS, Bootstrap 5, Sass, React.js, Firebase -->
-<div align="center">
- <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" alt="html5">
- <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat" alt="css3">
- <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" alt="JavaScript">
- <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat" alt="Bootstrap">
- <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=flat"  alt="Sass">
- <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black&style=flat" alt="React.js">
- <img src="https://img.shields.io/badge/Firebase-%23DD2C00?logo=firebase" alt="firebase">
-</div>
-<br />
-<!-- C++, QT -->
-<div align="center">
- <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=C%2B%2B&logoColor=white&style=flat" alt="C++">
- <img src="https://img.shields.io/badge/Qt-%2341CD52?logo=Qt&logoColor=white" alt="Qt" />
-</div>
-<br />
-<!-- Python, Linux, Git -->
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat" alt="python">
-  <img src="https://img.shields.io/badge/Ubuntu-%23E95420?logo=Ubuntu&logoColor=white" alt="ubuntu">
-  <img src="https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=%23ffff" alt="git">
-</div>
-<br/>
+### 🧠 Programming Languages  
+[![JavaScript](https://img.shields.io/badge/js-black?style=for-the-badge&logo=javascript)](https://github.com/AdhamElRouby)
+[![TypeScript](https://img.shields.io/badge/ts-black?style=for-the-badge&logo=typescript)](https://github.com/AdhamElRouby)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/AdhamElRouby)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B)](https://github.com/AdhamElRouby)
+[![Verilog](https://img.shields.io/badge/verilog-black?style=for-the-badge)](https://github.com/AdhamElRouby)
+
+---
+
+### 🌐 Web Technologies & Frameworks  
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/AdhamElRouby)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/AdhamElRouby)
+[![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/AdhamElRouby)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/AdhamElRouby)
+[![Material UI](https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui)](https://github.com/AdhamElRouby)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/AdhamElRouby)
+[![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/AdhamElRouby)
+[![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)](https://github.com/AdhamElRouby)
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/AdhamElRouby)
+[![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/AdhamElRouby)
+
+---
+
+### ⚙️ Tools  
+[![Qt](https://img.shields.io/badge/qt-black?style=for-the-badge&logo=qt)](https://github.com/AdhamElRouby)
+[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/AdhamElRouby)
+[![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)](https://github.com/AdhamElRouby)
+[![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon-aws)](https://github.com/AdhamElRouby)
+
+
 <!-- profile trophy -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhamelrouby" alt="adhamelrouby" /></a> </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdhamElRouby&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="AdhamElRouby's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdhamElRouby&theme=tokyonight&hide_border=true" alt="AdhamElRouby's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamElRouby&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="AdhamElRouby's Top Languages" />
+</div>
 
 ## 📫 Connect with me
 <div>
