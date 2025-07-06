@@ -10,10 +10,10 @@ I’m a **Computer Engineering** student at **the American University in Cairo**
 ## 🛠️ Skills
 
 ### 🧠 Programming Languages  
-[![JavaScript](https://img.shields.io/badge/js-black?style=for-the-badge&logo=javascript)](https://github.com/AdhamElRouby)
 [![TypeScript](https://img.shields.io/badge/ts-black?style=for-the-badge&logo=typescript)](https://github.com/AdhamElRouby)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/AdhamElRouby)
+[![JavaScript](https://img.shields.io/badge/js-black?style=for-the-badge&logo=javascript)](https://github.com/AdhamElRouby)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B)](https://github.com/AdhamElRouby)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/AdhamElRouby)
 [![Verilog](https://img.shields.io/badge/verilog-black?style=for-the-badge)](https://github.com/AdhamElRouby)
 
 ---
@@ -36,7 +36,7 @@ I’m a **Computer Engineering** student at **the American University in Cairo**
 [![Qt](https://img.shields.io/badge/qt-black?style=for-the-badge&logo=qt)](https://github.com/AdhamElRouby)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/AdhamElRouby)
 [![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)](https://github.com/AdhamElRouby)
-[![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon-aws)](https://github.com/AdhamElRouby)
+[![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=aws)](https://github.com/AdhamElRouby)
 
 
 <!-- profile trophy -->
