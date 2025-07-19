@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Adham El-Rouby</h1>
-<h3 align="center">🧑🏻‍💻 Dedicated Software Engineer | Web Developer</h3>
+<h3 align="center">🧑🏻‍💻 Dedicated Software Engineer | Full Stack Web Developer</h3>
 
 ## 🙋‍♂️ About me
 
