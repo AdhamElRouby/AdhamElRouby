@@ -47,15 +47,12 @@ I’m a **Computer Engineering** student at **the American University in Cairo**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamElRouby&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="AdhamElRouby's Top Languages" />
 </div>
 
-## 🌐 Socials
+## 📫 Connect with me
 <div align="center">
-<!-- <h3>Let's Connect!</h3> -->
-  <div>
  <a href="https://www.linkedin.com/in/adham-el-rouby/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" />
   </a>
   <a href="mailto:adhamelrouby@aucegypt.edu">
     <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="30" width="40" alt="Gmail"/>
   </a>
-</div>
 </div>
