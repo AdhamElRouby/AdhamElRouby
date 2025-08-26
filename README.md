@@ -49,7 +49,7 @@ I’m a **Computer Engineering** student at **the American University in Cairo**
 
 ## 🌐 Socials
 <div align="center">
-  <h3>Let's Connect!</h3>
+<!-- <h3>Let's Connect!</h3> -->
   <div>
  <a href="https://www.linkedin.com/in/adham-el-rouby/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" />
