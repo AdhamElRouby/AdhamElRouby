@@ -14,6 +14,8 @@ I’m a **Computer Engineering** student at **the American University in Cairo**
 [![JavaScript](https://img.shields.io/badge/js-black?style=for-the-badge&logo=javascript)](https://github.com/AdhamElRouby)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B)](https://github.com/AdhamElRouby)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/AdhamElRouby)
+[![Scala](https://img.shields.io/badge/scala-black?style=for-the-badge&logo=scala)](https://github.com/AdhamElRouby)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge)](https://github.com/AdhamElRouby)
 [![Verilog](https://img.shields.io/badge/verilog-black?style=for-the-badge)](https://github.com/AdhamElRouby)
 
 ---
@@ -28,6 +30,7 @@ I’m a **Computer Engineering** student at **the American University in Cairo**
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/AdhamElRouby)
 [![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)](https://github.com/AdhamElRouby)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/AdhamElRouby)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/AdhamElRouby)
 [![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/AdhamElRouby)
 
 ---
