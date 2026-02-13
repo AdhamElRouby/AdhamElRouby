@@ -38,7 +38,7 @@ I’m a **Computer Engineering** student at **the American University in Cairo**
 ### ⚙️ Tools  
 [![Qt](https://img.shields.io/badge/qt-black?style=for-the-badge&logo=qt)](https://github.com/AdhamElRouby)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/AdhamElRouby)
-[![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)](https://github.com/AdhamElRouby)
+[![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)](https://github.com/AdhamElRouby)
 [![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=aws)](https://github.com/AdhamElRouby)
 
 
