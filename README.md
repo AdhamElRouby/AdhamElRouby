@@ -52,10 +52,5 @@ I’m a **Computer Engineering** student at **the American University in Cairo**
 
 ## 📫 Connect with me
 <div align="center">
- <a href="https://www.linkedin.com/in/adham-el-rouby/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" />
-  </a>
-  <a href="mailto:adhamelrouby@aucegypt.edu">
-    <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="30" width="40" alt="Gmail"/>
-  </a>
+<a href="https://www.linkedin.com/in/adham-el-rouby/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" /></a>&nbsp;&nbsp;<a href="mailto:adhamelrouby@aucegypt.edu"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="30" width="40" alt="Gmail"/></a>
 </div>
